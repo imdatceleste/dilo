@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Dilo";
+CFBundleShortVersionString = "1.6.2";
+CFBundleGetInfoString = "Dilo version 1.6.2, Copyright 2001-2020 Imdat Solak.";
+NSHumanReadableCopyright = "Copyright 2001-2020 Imdat Solak (iso@imdat.de)";

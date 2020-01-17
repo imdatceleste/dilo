@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>Dilo</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.6.2, Copyright © 2001-2020 Imdat Solak</string>
+	<key>CFBundleIconFile</key>
+	<string>Dilo.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Dilo</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>dilo</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.education</string>
+	<key>NSHelpFile</key>
+	<string>Help.html</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSServices</key>
+	<array>
+		<dict>
+			<key>NSExecutable</key>
+			<string>Dilo</string>
+			<key>NSKeyEquivalent</key>
+			<dict>
+				<key>default</key>
+				<string>L</string>
+			</dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Define Spanish in Dilo</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>defineESInLeoORG</string>
+			<key>NSPortName</key>
+			<string>Dilo</string>
+			<key>NSSendTypes</key>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSExecutable</key>
+			<string>Dilo</string>
+			<key>NSKeyEquivalent</key>
+			<dict>
+				<key>default</key>
+				<string>J</string>
+			</dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Define French in Dilo</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>defineInDico</string>
+			<key>NSPortName</key>
+			<string>Dilo</string>
+			<key>NSSendTypes</key>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
+		</dict>
+		<dict>
+			<key>NSExecutable</key>
+			<string>Dilo</string>
+			<key>NSKeyEquivalent</key>
+			<dict>
+				<key>default</key>
+				<string>F</string>
+			</dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Define in Dilo</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>defineInLeoORG</string>
+			<key>NSPortName</key>
+			<string>Dilo</string>
+			<key>NSSendTypes</key>
+			<array>
+				<string>NSStringPboardType</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

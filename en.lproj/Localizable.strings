@@ -1,0 +1,39 @@
+"No entries found." = "No entries found.";
+"Searching..." = "Searching...";
+"1 entry found." = "1 entry found.";
+"Number of entries found:" = "Number of entries found:";
+
+"u-umlaut"	=	"ü";
+"a-umlaut"	=	"ä";
+"o-umlaut"	=	"ö";
+	
+"U-umlaut"	=	"Ü";
+"A-umlaut"	=	"Ä";
+"O-umlaut"	=	"Ö";
+
+"szlig"		=	"ß";
+
+"n-tilde"	=	"ñ";
+"N-tilde"	=	"Ñ";
+
+"c-cedilla"	=	"ç";
+"C-cedilla"	=	"Ç";
+"e-acute"	=	"é";
+"e-grave"	=	"è";
+"e-circumflex"	=	"ê";
+"E-acute"	=	"É";
+"E-grave"	=	"È";
+
+"E-circumflex"	=	"Ê";
+"a-circumflex"	=	"â";
+"A-circumflex"	=	"Â";
+
+"a-acute"	=	"á";
+"A-acute"	=	"Á";
+"g-breve"	=	"ğ";
+"dotless-i"	=	"ı";
+"s-cedilla"	=	"ş";
+
+"G-breve"	=	"Ğ";
+"I-dot"		=	"İ";
+"S-cedilla"	=	"Ş";
